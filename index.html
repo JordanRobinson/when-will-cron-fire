@@ -1,39 +1,52 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <link href="styles.css" media="screen" rel="stylesheet" type="text/css" />
-  <link href='http://fonts.googleapis.com/css?family=Palanquin' rel='stylesheet' type='text/css'>
+  <link href='styles.css' media='screen' rel='stylesheet' type='text/css' />
+  <link href='http://fonts.googleapis.com/css?family=Palanquin' rel='stylesheet' type='text/css' />
   <meta charset="utf-8">
   <title>When will cron fire?</title>
 </head>
 <body class="main">
   <div class="heading-container">
     <h1 class="heading">When will cron fire?</h1>
+  </div>
+  <div class="input-container">
     <div class="cron-input">
       <input class="giga-input" placeholder="Enter a cron schedule..."  id="input" type="text" />
       <button class="run-button">
         <i class="icon icon-clock">
         </i>
       </button>
-      </div>
     </div>
+  </div>
 
-    <p class="paragraph-subtle">examples</p>
-    <ul>
-      <a class="list-link" href="#"><li>one</li></a>
-      <a class="list-link" href="#"><li>two</li></a>
-      <a class="list-link" href="#"><li>three</li></a>
-      <a class="list-link" href="#"><li>four</li></a>
-      <a class="list-link" href="#"><li>five</li></a>
-    </ul>
-    <p class="paragraph-subtle">results</p>
-    <ul>
-      <li class="list-link">one</li>
-    </ul>
+  <div class="content">
+
+    <div class="examples">
+      <h2 class="paragraph-subtle">examples</h2>
+        <ul>
+          <a class="list-link" href="#"><li>one</li></a>
+          <a class="list-link" href="#"><li>two</li></a>
+          <a class="list-link" href="#"><li>three</li></a>
+          <a class="list-link" href="#"><li>four</li></a>
+          <a class="list-link" href="#"><li>five</li></a>
+        </ul>
+      </div>
+      
+
+      <div class="results">
+        <h2 class="paragraph-subtle">results</h2>
+        <ul>
+          <li class="list-link">one</li>
+        </ul>
+      </div>
+
+
+    </div>
 
     <!-- scripts go here :D -->
     <script src="//code.jquery.com/jquery-1.9.1.min.js"></script>
     <script src="main.js"></script>
 
-</body>
-</html>
+  </body>
+  </html>

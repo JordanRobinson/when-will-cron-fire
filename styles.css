@@ -1,7 +1,6 @@
 html {
   color: #fafafa;
   font-family: 'Palanquin', sans-serif;
-  box-sizing: border-box;
 }
 ul {
   list-style-type: none;
@@ -21,18 +20,19 @@ a {
 }
 
 .heading {
-  font-size 3rem;
-  margin: auto;
+  font-size: 3rem;
+  padding: auto auto 3rem auto;
   text-align:center;
 }
 
 .cron-input {
-  left:0px;
-  right:0px;
-  overflow:auto;
-  margin:0 auto;
-  position:absolute;
+  left: 0px;
+  right: 0px;
   padding: 0 20% 0 20%;
+}
+
+.input-container {
+  position: relative;
 }
 
 .giga-input {
@@ -42,16 +42,34 @@ a {
 }
 
 .run-button {
-  overflow:auto;
-  margin:auto;
-  position:absolute;
-  width:5%;
+  overflow: auto;
+  margin: auto;
+  position: absolute;
+  width: 5%;
   border: 0;
   background: none;
   color: inherit;
   background-color: #52181A;
-  line-height: 1.875rem;
-  height:100%;
+}
+
+.content {
+  margin: 0 20% 0 20%;
+}
+.results {
+  margin-top: 3rem;
+  float: left;
+  border: 2px #732225 solid;
+  width: 69%;
+  height: 20rem;
+  border-radius: 3rem;
+}
+.examples {
+  margin-top: 3rem;
+  float: right;
+  border: 2px #732225 solid;
+  width: 30%;
+  height: 20rem;
+  border-radius: 3rem;
 }
 
 @font-face {
