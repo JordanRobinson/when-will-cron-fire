@@ -1,0 +1,698 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"userAgent"
+			],
+			[
+				"path",
+				"pathString"
+			],
+			[
+				"backgroud",
+				"background-color"
+			],
+			[
+				"cre",
+				"createElement"
+			],
+			[
+				"create",
+				"createTextNode"
+			],
+			[
+				"ti",
+				"timeText"
+			],
+			[
+				"time",
+				"timeText"
+			],
+			[
+				"tim",
+				"timeText"
+			],
+			[
+				"Creat",
+				"createTextNode"
+			],
+			[
+				"clo",
+				"clockHolder"
+			],
+			[
+				"clock",
+				"clockDiv"
+			],
+			[
+				"t",
+				"transitions"
+			],
+			[
+				"cell",
+				"cellWidth"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"lef",
+				"left-box"
+			],
+			[
+				"add",
+				"addCells"
+			],
+			[
+				"box",
+				"boxId"
+			],
+			[
+				"doc",
+				"docHeight"
+			],
+			[
+				"set",
+				"setDead"
+			],
+			[
+				"ri",
+				"right-box"
+			],
+			[
+				"right",
+				"rightBoxHeight"
+			],
+			[
+				"do",
+				"docHeight"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"min",
+				"minIndex"
+			],
+			[
+				"ENE",
+				"ENEMY_ZERGLING"
+			],
+			[
+				"E",
+				"ENEMY_STALKER"
+			],
+			[
+				"get",
+				"getByType"
+			],
+			[
+				"peon",
+				"peonIndex"
+			],
+			[
+				"publi",
+				"publishDate"
+			],
+			[
+				"link",
+				"countLinks"
+			],
+			[
+				"p",
+				"PageLoader"
+			],
+			[
+				"getpa",
+				"getPageContent"
+			],
+			[
+				"sysou",
+				"sysout"
+			],
+			[
+				"fore",
+				"forEachLoopUntil"
+			],
+			[
+				"for",
+				"foreach"
+			],
+			[
+				"a",
+				"a_scanner_darkly"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"back",
+				"background-color"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"reinden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reinde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"preview",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"groo",
+				"Set Syntax: Groovy"
+			],
+			[
+				"gr",
+				"Set Syntax: Groovy"
+			],
+			[
+				"insert",
+				"Tools: Insert date time ISO"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"mongo",
+				"MongoExec: List collections"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"markdown",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"mark",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"p",
+				"Package Control: List Packages"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"c#",
+				"Set Syntax: C#"
+			],
+			[
+				"user ",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"pla",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"syntax",
+				"Set Syntax: reStructuredText"
+			],
+			[
+				"erlan",
+				"Set Syntax: Erlang"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"edit",
+				"Set Syntax: EditorConfig"
+			],
+			[
+				"editorcon",
+				"Set Syntax: EditorConfig"
+			],
+			[
+				"packagecon",
+				"Package Control: Install Package"
+			],
+			[
+				"package con",
+				"Package Control: Discover Packages"
+			],
+			[
+				"date",
+				"Tools: Insert date"
+			],
+			[
+				"package control",
+				"Package Control: Discover Packages"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"insertdate",
+				"Tools: Insert date"
+			],
+			[
+				"insert date",
+				"Tools: Insert date"
+			],
+			[
+				"package ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 472.0
+	},
+	"console":
+	{
+		"height": 208.0,
+		"history":
+		[
+			"import urllib.request,os,sys; exec(\"if sys.version_info < (3,) or os.name != 'nt': raise OSError('This code is for Windows ST3 only!')\"); pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read()) ",
+			"import urllib2,os; pf='Package Control.sublime-package'; ipp=sublime.installed_packages_path(); os.makedirs(ipp) if not os.path.exists(ipp) else None; urllib2.install_opener(urllib2.build_opener(urllib2.ProxyHandler())); open(os.path.join(ipp,pf),'wb').write(urllib2.urlopen('http://sublime.wbond.net/'+pf.replace(' ','%20')).read()); print('Please restart Sublime Text to finish installation')",
+			"https://sublime.wbond.net/alpha/packages.json"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/user/AppData/Local/Temp/7zODE7E.tmp/Read Me.txt",
+		"/C/Users/user/Downloads/Untitled Set.json",
+		"/C/Users/user/Documents/theRenamer/log.txt",
+		"/D/0/game-of-thrones-first-season_HI_english-910722/Game.of.Thrones.S01E09.Baelor.Dothraki.Only.720p.BluRay.DTS.x264-HDC.srt",
+		"/D/0/0/Video/TV Shows/Game of Thrones/Season2/Game of Thrones S02E01 The North Remembers.srt",
+		"/D/0/0/Video/TV Shows/Game of Thrones/Season3/game.of.thrones.s03e01.bluray.ENGLISH.4.NON.ENGLISH.ONLY.srt",
+		"/D/0/Game_of_Thrones - season 1.en/Game of Thrones - 1x09 - Baelor.HDTV.ASAP.en.srt",
+		"/D/0/Game_of_Thrones - season 1.en/Game of Thrones - 1x09 - Baelor.HDTV.en.srt",
+		"/D/0/Game_of_Thrones - season 1.en/Game of Thrones - 1x09 - Baelor.720p HDTV.CTU.en.srt",
+		"/D/0/game-of-thrones-first-season_HI_english-449576/game.of.thrones.s01e09.720p.hdtv.x264-orenji.srt",
+		"/D/0/game-of-thrones-first-season_HI_english-925107/Game.of.Thrones.S01E09.Baelor.720p.BluRay.x264-MALAY DEV.srt",
+		"/D/0/game-of-thrones-first-season_english-543068/game.of.thrones.s01e10.dvdrip.xvid-reward.srt",
+		"/C/Users/user/AppData/Local/Temp/7zOD84B.tmp/Game Of Thrones S01E01 Winter Is Coming.srt",
+		"/D/0/Game_of_Thrones - season 1.en/Game of Thrones - 1x09 - Baelor.HDTV.FQM.en.srt",
+		"/C/Users/user/AppData/Local/Temp/7zO43E8.tmp/Game.of.Thrones.S01E09.Baelor.HDTV.XviD-FQM.srt",
+		"/D/0/0/Dropbox/work/blog/_posts/2015-01-25-clear-watched-jira-cases.md",
+		"/D/0/New folder/[JSK] Demon girl Maisa seal (封魔少女マイサ)/お読みください.txt",
+		"/D/0/New folder/[JSK] Princess Christiane General/sort of guide.txt",
+		"/D/0/New folder/[GT-Four] Caged Bird (English translated version)/readme.txt",
+		"/D/0/Halo/Halo/FOR THE LOVE OF GOD PLEASE README.txt",
+		"/D/0/Express Installation/FOR THE LOVE OF GOD PLEASE README.txt",
+		"/D/0/0/Dropbox/work/blog/_posts/2015-03-21-PDF-Links.md",
+		"/D/0/New folder/BunnyBlack_eng_1.20/readme.txt",
+		"/D/0/0/Dropbox/work/scrap/android-contentprovider-generator/etc/sample/person.json",
+		"/D/0/0/Dropbox/work/scrap/android-contentprovider-generator/etc/sample/manual.json",
+		"/D/0/fsw-content-provider/fsw/manual.json",
+		"/D/0/fsw-generated/README.md",
+		"/D/0/0/Months/2012/Nov/artistlist.txt",
+		"/C/Users/user/AppData/Local/Temp/7zO31EF.tmp/Readme.txt",
+		"/D/0/0/Months/2013/May/3ds possibles.txt",
+		"/D/0/0/Months/2013/Jul/ROBINSONJ2014-20130712(1).ofx",
+		"/C/Users/user/AppData/Local/Temp/android-color-picker-1.0.0.pom",
+		"/D/0/0/Dropbox/work/android-color-picker/aosp/build.gradle",
+		"/D/0/0/Dropbox/work/android-color-picker/.gitmodules",
+		"/D/0/0/Dropbox/work/android-color-picker/settings.gradle",
+		"/C/test.json",
+		"/D/0/0/Dropbox/work/scrap/playFramework/unheard/app/controllers/Application.java",
+		"/D/0/0/Dropbox/work/blog/about.md",
+		"/D/0/blog thing.md",
+		"/D/0/blog thing.txt",
+		"/D/0/0/Dropbox/work/blog/_posts/2015-01-16-site-redesign.md",
+		"/D/0/0/Dropbox/work/blog/_posts/2015-02-18-Rosalind.md",
+		"/C/Log/fsw/log.txt",
+		"/D/0/0/Dropbox/work/rss-generator-feeds/rss-generator/index.html",
+		"/I/dl/IPTorrents/Adobe.CS6.Master.Collection/Adobe.Master.Collection.CS6.LS16.FINAL.WINDOWS-Milkman/milkman-mastercollectioncs6ls16/Milkman/milkman-mastercollectioncs6ls16.nfo",
+		"/D/0/0/Dropbox/work/scrap/colorpicker2/build.gradle",
+		"/D/0/0/Dropbox/work/scrap/colorpicker2/settings.gradle",
+		"/D/0/paths of interaction.txt",
+		"/D/0/0/Dropbox/work/android-color-picker/src/build.gradle",
+		"/D/0/0/Dropbox/work/android-color-picker/build.gradle",
+		"/D/0/Site redesign.txt",
+		"/D/0/android-color-picker/AndroidManifest.xml",
+		"/D/0/0/Dropbox/work/android-color-picker/src/AndroidManifest.xml",
+		"/D/0/dnd/dnd stuff",
+		"/D/0/0/Dropbox/work/blog/_drafts/2015-01-XX-Rosalind.md",
+		"/D/0/0/Dropbox/work/blog/index.html",
+		"/D/0/0/Dropbox/work/scrap/playFramework/unheard/app/models/Artist.java",
+		"/D/0/0/Dropbox/work/five-simple-words/android/FiveSimpleWords/app/libs/colorpicker.aar",
+		"/D/0/0/Dropbox/work/scrap/colorpicker/colorpicker/res/drawable/color_picker_swatch.xml",
+		"/D/0/colorpicker-70f7b1b6deb5ba2ccefb121b60d285e79598ff17.tar/colorpicker-70f7b1b6deb5ba2ccefb121b60d285e79598ff17/AndroidManifest.xml",
+		"/C/patches/x.patch",
+		"/D/0/0/Dropbox/work/scrap/playFramework/unheard/app/models/AlbumContainer.java",
+		"/D/0/0/Dropbox/work/scrap/playFramework/unheard/app/models/Album.java",
+		"/C/Users/user/AppData/Local/Temp/sitemap.xml",
+		"/D/0/0/Dropbox/work/blog/_posts/2015-01-16-Site-Redesign.md",
+		"/C/feeds/Nintendo_Stars_Catalogue.xml",
+		"/D/0/0/Dropbox/work/five-simple-words/android/.gitignore",
+		"/D/0/0/Dropbox/work/bb/bb-website-2014/.gitignore",
+		"/D/0/0/Dropbox/work/five-simple-words/README.md",
+		"/D/0/0/Dropbox/work/rss-generator/README.md",
+		"/D/0/0/Dropbox/work/sunshine/app/src/main/res/values/strings.xml",
+		"/C/feeds/Hardcore_Gaming_101.xml",
+		"/D/0/0/Dropbox/work/five-simple-words/service/.gitignore",
+		"/D/0/0/Dropbox/work/blog/_posts/2015-01-25-Clear-Watched-JIRA-Cases.md",
+		"/D/0/0/Dropbox/work/blog/_includes/sidebar.html",
+		"/D/0/0/Dropbox/work/blog/public/css/custom.css",
+		"/D/0/0/Dropbox/work/github-streak-reminders/resources/wireframe-notes.txt",
+		"/D/0/0/Dropbox/work/blog/_includes/head.html",
+		"/D/0/0/Dropbox/work/JordanRobinson.github.io/assets/styles/styles.css",
+		"/D/0/test.reg",
+		"/D/0/0/Dropbox/work/blog/_config.yml",
+		"/D/0/0/Dropbox/work/blog/404.html",
+		"/D/0/0/Dropbox/work/blog/LICENSE",
+		"/D/0/Dropbox/Work/new-tab-clock/src/script.js",
+		"/D/0/0/Manga/New folder/HuniePop/HuniePop_Data/mainData",
+		"/C/feeds/_Nintendo_Stars_Catalogue.xml",
+		"/C/TestFeed.xml",
+		"/C/_Nintendo_Stars_Catalogue.xml",
+		"/D/0/export-to-android-master/export-to-android-master/README.md",
+		"/C/Users/user/AppData/LocalLow/Failbetter Games/Sunless Sea/saves/jordan8.json",
+		"/C/Users/user/AppData/LocalLow/Failbetter Games/Sunless Sea/constants/navigationconstants.json",
+		"/D/0/lost_boy/SunlessSea/Sunless Sea_Data/mainData",
+		"/D/0/Lesson 2_ Connect Sunshine to the Cloud Subtitles/02 - Review Data Provided by Open Weather Map.srt",
+		"/C/hardcoregaming101.xml",
+		"/I/dl/IPTorrents/The Wire Complete S01 S02 S03 S04 S05 720p HDTV x264-ITSat/The.Wire.S02E03.720p.HDTV.DD5.1.x264-ITSat.srt",
+		"/C/Users/user/AppData/Roaming/Skype/live#3ahypahnova/config.xml",
+		"/C/Users/user/AppData/Local/Temp/15.html",
+		"/D/0/gro-notes.txt",
+		"/D/0/0/Dropbox/work/blog-post-first-draft.md",
+		"/D/0/0/Dropbox/work/blog/_posts/2015-01-11-example-content.md",
+		"/D/0/0/Dropbox/work/blog/public/css/solarized-gists.css",
+		"/D/0/0/Dropbox/work/blog/_layouts/default.html",
+		"/D/0/0/Dropbox/work/blog/_layouts/post.html",
+		"/D/0/0/Dropbox/work/cygwin-git-ci/git/Makefile",
+		"/D/0/0/Dropbox/work/blog/_posts/2014-01-01-example-content.md",
+		"/D/0/0/Dropbox/work/JordanRobinson.github.io/index.html",
+		"/C/Program Files (x86)/Sublime Text 3/_hashlib.pyd",
+		"/D/0/0/Dropbox/work/blog/README.md",
+		"/D/0/0/Dropbox/work/blog/atom.xml",
+		"/D/0/0/Dropbox/work/blog/CNAME",
+		"/D/0/0/Dropbox/work/blog/LICENSE.md",
+		"/D/0/0/Apps/cygwin/home/user/.bashrc",
+		"/D/0/0/Apps/cygwin/home/user/broadcasts",
+		"/D/0/0/Apps/cygwin/backupD.txt",
+		"/D/0/0/Apps/cygwin/home/user/backupD.txt",
+		"/D/Games/Nexus Mod Manager/FalloutNV/Install Info/InstallLog.xml",
+		"/D/0/Dropbox/Work/ssh root.txt",
+		"/D/0/Dropbox/Work/resourceful/package.json",
+		"/D/0/Dropbox/Work/resourceful/README.md",
+		"/D/0/Dropbox/Work/new-tab-clock/src/scripts/script.js",
+		"/D/0/Dropbox/Work/new-tab-clock/README.md",
+		"/C/Users/user/AppData/Roaming/Mozilla/Firefox/Profiles/0enbircu.default/user.js",
+		"/C/Users/user/AppData/Roaming/Mozilla/Firefox/Profiles/0enbircu.default/prefs.js",
+		"/H/Music I need to get round to listening to.txt",
+		"/D/0/saves/nsSGv1.sol",
+		"/D/0/backstory.txt",
+		"/D/0/dnd-dudester.txt",
+		"/D/0/Months/2012/Nov/new 2.txt"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fivesim",
+			"fivesime",
+			",",
+			"app/src/main/java/com/example/android/sunshine/app/data/",
+			"theme: 0",
+			"area",
+			"username",
+			"place",
+			"theme",
+			"score",
+			"category",
+			"reviews",
+			"places",
+			"content:",
+			" name:",
+			"{name:",
+			"review:",
+			"\\n",
+			",,",
+			"testuser\"",
+			"[a-z],",
+			"\"(\\w*[ ]?){5}\"",
+			"\"(\\w*?[ ]){5}\"",
+			"4866",
+			"advert",
+			"gary",
+			"Flik",
+			"Gary",
+			"folderplayer",
+			"folder",
+			"metadata",
+			"spotify",
+			"train",
+			"ghonly",
+			"boy",
+			"language",
+			"holes",
+			"midsummer ni",
+			"saff",
+			"height: 10px",
+			"width: 10px",
+			"50ms",
+			"'peon'",
+			"incx",
+			"vel",
+			"  ",
+			"    ",
+			"      ",
+			"\\n",
+			"birth",
+			"linelen",
+			"/tab",
+			"tab",
+			"spaces",
+			"meeting",
+			"01-08 21:44:18.134",
+			"01-08 21:44:16.933 ",
+			"0.0.0.0",
+			"d",
+			"auto",
+			"009bdf"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"\\n",
+			"Area",
+			"Username",
+			"Place",
+			"Theme",
+			"Score",
+			"Category",
+			"Reviews",
+			"Places",
+			"Content:",
+			" Name:",
+			"{Name:",
+			"content:",
+			"",
+			"testuser\",",
+			"$1\",",
+			"Flick",
+			"Flik",
+			"height: 8px",
+			"width: 8px",
+			"150ms",
+			"WORKER",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.markdown":
+	{
+		"height": 118.0
+	},
+	"project": "whenwillcronfire.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 58.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

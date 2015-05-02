@@ -1,0 +1,91 @@
+html {
+  color: #fafafa;
+  font-family: 'Palanquin', sans-serif;
+  box-sizing: border-box;
+}
+ul {
+  list-style-type: none;
+}
+
+a {
+  color: inherit;
+}
+
+.list-link {
+  text-decoration: underline;
+}
+
+.main {
+  background-color: #7F2629;
+  padding-top: 10%
+}
+
+.heading {
+  font-size 3rem;
+  margin: auto;
+  text-align:center;
+}
+
+.cron-input {
+  left:0px;
+  right:0px;
+  overflow:auto;
+  margin:0 auto;
+  position:absolute;
+  padding: 0 20% 0 20%;
+}
+
+.giga-input {
+  height: 2.75rem;
+  line-height: 1.875rem;
+  width: 95%;
+}
+
+.run-button {
+  overflow:auto;
+  margin:auto;
+  position:absolute;
+  width:5%;
+  border: 0;
+  background: none;
+  color: inherit;
+  background-color: #52181A;
+  line-height: 1.875rem;
+  height:100%;
+}
+
+@font-face {
+  font-family: 'icomoon';
+  src:url('fonts/icomoon.eot?exxxa7');
+  src:url('fonts/icomoon.eot?#iefixexxxa7') format('embedded-opentype'),
+    url('fonts/icomoon.woff?exxxa7') format('woff'),
+    url('fonts/icomoon.ttf?exxxa7') format('truetype'),
+    url('fonts/icomoon.svg?exxxa7#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  font-family: 'icomoon';
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-clock:before {
+  content: "\e94e";
+  text-align: center;
+  vertical-align: middle;
+  padding:0;
+  margin:0;
+  border-radius:0.3rem;
+  font-size: 1.5rem;
+  width:100%;
+}
