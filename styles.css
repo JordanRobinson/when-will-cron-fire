@@ -56,20 +56,21 @@ a {
   margin: 0 20% 0 20%;
 }
 .results {
+  background-color: #732225;
   margin-top: 3rem;
   float: left;
   border: 2px #732225 solid;
   width: 69%;
   height: 20rem;
-  border-radius: 3rem;
+
 }
 .examples {
+  background-color: #732225;
   margin-top: 3rem;
   float: right;
   border: 2px #732225 solid;
   width: 30%;
   height: 20rem;
-  border-radius: 3rem;
 }
 
 @font-face {
