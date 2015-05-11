@@ -2,6 +2,13 @@ html {
   color: #fafafa;
   font-family: 'Palanquin', sans-serif;
 }
+
+body {
+	margin: 0;
+  background-color: #7F2629;
+  padding-top: 5%;
+}
+
 ul {
   list-style-type: none;
 }
@@ -14,14 +21,10 @@ a {
   text-decoration: underline;
 }
 
-.main {
-  background-color: #7F2629;
-  padding-top: 10%
-}
-
 .heading {
   font-size: 3rem;
-  padding: auto auto 3rem auto;
+  margin: 0;
+  padding-bottom: 3rem;
   text-align:center;
 }
 
@@ -33,19 +36,28 @@ a {
 }
 
 .cron-input {
-  left: 0px;
-  right: 0px;
-  padding: 0 20% 0 20%;
+  left: 0;
+  right: 0;
 }
+
+.heading-container,
+.input-container,
+.content {
+	max-width: 70%;
+  margin: 0 auto;
+}
+
 
 .input-container {
   position: relative;
 }
 
 .giga-input {
-  height: 2.75rem;
-  line-height: 1.875rem;
-  width: 95%;
+	padding: 0 1%;
+  margin: 0;
+  border: 0;
+  height: 3rem;
+  width: 93%;
 }
 
 .run-button {
@@ -57,14 +69,15 @@ a {
   background: none;
   color: inherit;
   background-color: #52181A;
+  height: 3rem;
 }
 
 .content {
-  margin: 0 20% 0 20%;
+  padding-top: 3rem;
 }
+
 .results {
   background-color: #732225;
-  margin-top: 3rem;
   float: left;
   border: 2px #732225 solid;
   width: 69%;
@@ -73,7 +86,6 @@ a {
 }
 .examples {
   background-color: #732225;
-  margin-top: 3rem;
   float: right;
   border: 2px #732225 solid;
   width: 30%;
@@ -114,4 +126,14 @@ a {
   border-radius:0.3rem;
   font-size: 1.5rem;
   width:100%;
+}
+
+.clearfix:before,
+.clearfix:after {
+    content: '';
+    display: table;
+}
+
+.clearfix:after {
+    clear: both;
 }
