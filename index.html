@@ -15,7 +15,7 @@
 		<div class="input-container">
 			<div class="cron-input">
 				<input class="giga-input" placeholder="Enter a cron schedule..."  id="input" type="text" />
-				<button class="run-button">
+				<button id="run-button" class="run-button">
 					<i class="icon icon-clock">
 					</i>
 				</button>
@@ -27,14 +27,12 @@
 			<div class="examples">
 				<h2 class="detail-heading">Examples</h2>
 				<ul>
-					<a class="list-link" href="#"><li>one</li></a>
-					<a class="list-link" href="#"><li>two</li></a>
-					<a class="list-link" href="#"><li>three</li></a>
-					<a class="list-link" href="#"><li>four</li></a>
-					<a class="list-link" href="#"><li>five</li></a>
+					<a id="example-one" class="list-link" href="#"><li>0 * * * *</li></a>
+					<a id="example-two" class="list-link" href="#"><li>0 * * * *</li></a>
+					<a id="example-three" class="list-link" href="#"><li>0 * * * *</li></a>
+					<a id="example-four" class="list-link" href="#"><li>0 * * * *</li></a>
 				</ul>
 			</div>
-
 
 			<div class="results">
 				<h2 class="detail-heading">Results</h2>
@@ -42,12 +40,10 @@
 					<li class="result">one</li>
 				</ul>
 			</div>
-
-
 		</div>
 
 		<!-- scripts go here :D -->
-		<script src="//code.jquery.com/jquery-1.9.1.min.js"></script>
+		<script src="_scripts/jquery-1.11.3.min.js"></script>
 		<script src="_scripts/moment.js" type="text/javascript"></script>
   		<script src="_scripts/later.min.js" type="text/javascript"></script>
   		<script src="_scripts/prettycron.js" type="text/javascript"></script>
