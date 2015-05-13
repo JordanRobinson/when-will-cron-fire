@@ -21,7 +21,7 @@ a {
   text-decoration: underline;
 
   margin: auto;
-  padding: 2.5rem;
+  line-height: 3.5rem;
   font-size: 1.3rem;
   font-family: monospace;
 }
