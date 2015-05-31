@@ -17,6 +17,10 @@ a {
   color: inherit;
 }
 
+* {
+  -moz-transition: all 1s;
+}
+
 .list-link {
   text-decoration: underline;
 
